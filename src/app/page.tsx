@@ -1,5 +1,5 @@
-// import Pokemon from "./components/page" // initialData によるプリフェッチ
-import Pokemon from './components/hydrate/page' // <Hydrate> によるプリフェッチ
+import Pokemon from "./components/page" // initialData によるプリフェッチ
+// import Pokemon from './components/hydrate/page' // <Hydrate> によるプリフェッチ
 
 export default function Home() {
   return (
